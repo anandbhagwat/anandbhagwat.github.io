@@ -126,5 +126,5 @@ Javascript Files:
 
 
 Thanks for downloading from Styleshout :)
-  
+  ---Anand Bhagwat
 
